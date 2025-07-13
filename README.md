@@ -3,5 +3,5 @@ The code implementation of DBN. The environment configuration for running the re
 + GPU NVIDIA GeForce Mx450
 + CUDA 12.0
 + Torch 1.12.0
-+ Python 3.8.0
++ Python 3.8.0 \
 If you have any other questions, please feel free to contact us!
